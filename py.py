@@ -7,6 +7,10 @@ from sys import argv
 
 def main():
 	print("Hello, world")
+	
+	# i recommend to add this feature 
+	x = inpute("Enter name")
+	print(x)
 	return 0
 
 if __name__ == '__main__':
