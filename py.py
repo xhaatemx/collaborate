@@ -6,7 +6,6 @@ from sys import argv
 
 
 def main():
-	print("Hello, world")
 	
 	# i recommend to add this feature 
 	x = inpute("Enter name")
